@@ -1,14 +1,16 @@
 input {
   border: 1px solid black;
-  width: 62%;
+  max-width: 1060px;
+  min-width: 450px;
   padding: 25px;
   background-color: rgba(0, 0, 0, 0.56);
   border-radius: 20px;
   outline: none;
-  color: yellow;
+  color: grey;
   font-size: 25px;
 }
 button {
+  width: auto;
   font-size: 30px;
   background: none;
   color: rgb(255, 0, 119);

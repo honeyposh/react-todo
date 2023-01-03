@@ -3,7 +3,8 @@
 }
 .list {
   border: 1px solid black;
-  width: 100%;
+  min-width: 450px;
+  max-width: 1060px;
   padding: 25px;
   background-color: rgba(0, 0, 0, 0.56);
   border-radius: 20px;
