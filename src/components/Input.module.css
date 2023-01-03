@@ -5,7 +5,7 @@ input {
   background-color: rgba(0, 0, 0, 0.56);
   border-radius: 20px;
   outline: none;
-  color: grey;
+  color: yellow;
   font-size: 25px;
 }
 button {
@@ -13,13 +13,4 @@ button {
   background: none;
   color: rgb(255, 0, 119);
   margin-left: 30px;
-}
-@media (min-width: 600px) and (max-width: 768px) {
-  input {
-    background-color: #de3163;
-    width: 100%;
-  }
-  button {
-    width: 100%;
-  }
 }
