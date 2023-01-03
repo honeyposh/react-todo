@@ -1,0 +1,17 @@
+.todo {
+  margin-top: 80px;
+}
+.list {
+  border: 1px solid black;
+  width: 62%;
+  padding: 25px;
+  background-color: rgba(0, 0, 0, 0.56);
+  border-radius: 20px;
+  outline: none;
+  color: grey;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  color: white;
+}
