@@ -8,8 +8,3 @@ body {
   background-color: #374151;
   margin-left: 400px;
 }
-@media (min-width: 600px) and (max-width: 768px) {
-  body {
-    background-color: #de3163;
-  }
-}
