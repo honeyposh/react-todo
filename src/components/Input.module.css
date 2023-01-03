@@ -17,9 +17,9 @@ button {
 @media (min-width: 600px) and (max-width: 768px) {
   input {
     background-color: #de3163;
-    width: auto;
+    width: 100%;
   }
-  body {
+  button {
     width: 100%;
   }
 }
