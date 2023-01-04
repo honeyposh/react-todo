@@ -16,10 +16,11 @@ button {
 }
 @media (max-width: 768px) {
   input {
-    width: 70%;
+    width: auto;
     font-size: 10px;
   }
   button {
     font-size: 20px;
+    /* width: 30px; */
   }
 }
