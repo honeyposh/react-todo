@@ -6,21 +6,11 @@ input {
   outline: none;
   color: grey;
   font-size: 25px;
-  width: 75%;
+  width: 70%;
 }
 button {
   font-size: 30px;
   background: none;
   color: rgb(255, 0, 119);
   margin-left: 30px;
-}
-@media (max-width: 768px) {
-  input {
-    width: auto;
-    font-size: 10px;
-  }
-  button {
-    font-size: 20px;
-    /* width: 30px; */
-  }
 }
