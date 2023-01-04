@@ -1,12 +1,8 @@
 * {
   padding: 0;
   border: 0;
-
   box-sizing: border-box;
 }
 body {
   background-color: #374151;
-  margin-left: 400px;
-  align-items: center;
-  justify-content: center;
 }
