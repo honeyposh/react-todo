@@ -5,4 +5,17 @@
 }
 body {
   background-color: #374151;
+  /* margin-left: 400px; */
+}
+@media (min-width: 992px) {
+  body {
+    margin-left: 400px;
+    /* background-color: rebeccapurple; */
+  }
+}
+@media (max-width: 768px) {
+  body {
+    width: 100%;
+    background-color: blue;
+  }
 }
