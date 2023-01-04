@@ -3,8 +3,7 @@
 }
 .list {
   border: 1px solid black;
-  min-width: 450px;
-  max-width: 1060px;
+  width: 70%;
   padding: 25px;
   background-color: rgba(0, 0, 0, 0.56);
   border-radius: 20px;
@@ -15,4 +14,10 @@
   justify-content: space-between;
   margin-top: 20px;
   color: white;
+}
+@media (max-width: 768px) {
+  .list {
+    width: 95%;
+    font-size: 20px;
+  }
 }

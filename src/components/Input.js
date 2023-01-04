@@ -22,7 +22,9 @@ function Input(props) {
           name="todo"
           value={todo}
         />
-        <button type="submit">Add task</button>
+        <button type="submit" className={classes.inputbtn}>
+          Add task
+        </button>
       </form>
     </div>
   );
